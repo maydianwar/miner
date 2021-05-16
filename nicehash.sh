@@ -1,3 +1,4 @@
+# nicehash
 sudo apt update
 sudo add-apt-repository --yes ppa:ethereum/ethereum
 sudo cat /etc/apt/sources.list
